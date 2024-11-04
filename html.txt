@@ -1,0 +1,1374 @@
+ <div class="main-menu navbar-toggleable-xl menu-toggleable-left multilevel-dropdown" id="sg-navbar-collapse">
+                <nav class="navbar navbar-expand-xl bg-inverse">
+    <div class="close-menu clearfix d-xl-none">
+        <div class="back pull-left">
+            <a href="#" role="button">
+                <span class="caret-left"></span>
+                Back
+            </a>
+        </div>
+        <div class="mobile-logo-container">
+            <div class="site_logo adidas">
+    <div class="row no-gutters">
+        <div class="col-12">
+            <a href="/en" title="adidas Home">
+                <img class="large_logo hidden-lg-down" src="/on/demandware.static/Sites-adidas-EG-Site/-/default/dwb078dc0d/images/adidas_logo.svg"
+                    alt="adidas" />
+                <img class="small_logo d-xl-none" src="/on/demandware.static/Sites-adidas-EG-Site/-/default/dwb078dc0d/images/adidas_logo.svg"
+                    alt="adidas" />
+            </a>
+        </div>
+    </div>
+</div>
+        </div>
+        <div class="close-button pull-right">
+            <a href="#" role="button">
+                Close
+                <span aria-hidden="true">&times;</span>
+            </a>
+        </div>
+    </div>
+    <div class="menu-group" aria-label="Main menu" role="navigation">
+        <ul class="nav navbar-nav" role="menu">
+            
+                
+                    
+                        <li class="nav-item dropdown" role="menuitem">
+                            <a style="color: black" href="/en/men" id="men" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Men</a>
+                            
+                            <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="men">
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/men-new_trending" id="mens - New &amp; Trending" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Featured</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="mens - New &amp; Trending">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-new_arrivals" id="mens-New_Arrivals" role="menuitem" class="dropdown-link" tabindex="-1">New Arrivals</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/ultraboost" id="Mens - Ultraboost" role="menuitem" class="dropdown-link" tabindex="-1">Ultraboost Light</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/sportswear" id="men-featured-adidas-sportswear" role="menuitem" class="dropdown-link" tabindex="-1">adidas Sportswear</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/gazelle" id="men-featured-gazelle" role="menuitem" class="dropdown-link" tabindex="-1">Gazelle</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/forum" id="men-featured-forum" role="menuitem" class="dropdown-link" tabindex="-1">Forum</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/parley" id="men-featured-parley" role="menuitem" class="dropdown-link" tabindex="-1">adidas x Parley</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-featured-sale" id="men-featured-sale" role="menuitem" class="dropdown-link" tabindex="-1">SALE</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/men-shoes" id="men-Shoes" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Men's Shoes</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="men-Shoes">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-originals-shoes" id="men-originals" role="menuitem" class="dropdown-link" tabindex="-1">Originals</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-running-shoes" id="men-running" role="menuitem" class="dropdown-link" tabindex="-1">Running</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-football-shoes" id="men-football" role="menuitem" class="dropdown-link" tabindex="-1">Football</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-slides" id="men-slippers" role="menuitem" class="dropdown-link" tabindex="-1">Slides &amp; Sandals</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-gym_training-shoes" id="men-gym &amp; training" role="menuitem" class="dropdown-link" tabindex="-1">Gym &amp; Training</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-basketball-shoes" id="men-basketball" role="menuitem" class="dropdown-link" tabindex="-1">Basketball</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-outdoor-shoes" id="men-outdoor" role="menuitem" class="dropdown-link" tabindex="-1">Hiking, Trail &amp; Climbing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-sneakers" id="Men-sneakers" role="menuitem" class="dropdown-link" tabindex="-1">Sneakers</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-white-sneakers" id="White-men-sneakers" role="menuitem" class="dropdown-link" tabindex="-1">White Sneakers</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/men-shoes?pmin=00.00&amp;pmax=3%2C000.00" id="men-shoes-under-egp3000" role="menuitem" class="dropdown-link" tabindex="-1">Shoes Under EGP 3000</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/men-clothing" id="men-Clothing" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Men's Clothing</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="men-Clothing">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-t_shirts" id="men-t_shirts" role="menuitem" class="dropdown-link" tabindex="-1">T-shirts</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-shorts" id="men-shorts" role="menuitem" class="dropdown-link" tabindex="-1">Shorts</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-trousers" id="men-pants" role="menuitem" class="dropdown-link" tabindex="-1">Pants</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-jerseys" id="mens-jerseys" role="menuitem" class="dropdown-link" tabindex="-1">Sports Jerseys</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-tracksuits" id="men-tracksuits" role="menuitem" class="dropdown-link" tabindex="-1">Tracksuits</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-hoodies" id="men-hoodies" role="menuitem" class="dropdown-link" tabindex="-1">Hoodies</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-sweatshirts" id="men-sweatshirts" role="menuitem" class="dropdown-link" tabindex="-1">Sweatshirts</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-jackets" id="men-jackets" role="menuitem" class="dropdown-link" tabindex="-1">Jackets</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-swimwear" id="men-swimwear" role="menuitem" class="dropdown-link" tabindex="-1">Swimwear</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/men-clothing?pmin=00.00&amp;pmax=2%2C000.00" id="men-clothing-under-egp2000" role="menuitem" class="dropdown-link" tabindex="-1">Clothing Under EGP 2000</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/men-accessories" id="men-Accessories" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Men's Accessories</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="men-Accessories">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-headwear" id="men-headwear" role="menuitem" class="dropdown-link" tabindex="-1">Headwear</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-bags" id="men-bags" role="menuitem" class="dropdown-link" tabindex="-1">Bags</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-socks" id="men-socks" role="menuitem" class="dropdown-link" tabindex="-1">Socks</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-balls" id="men-balls" role="menuitem" class="dropdown-link" tabindex="-1">Sports Balls</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-gloves" id="men-gloves" role="menuitem" class="dropdown-link" tabindex="-1">Gloves</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-face_covers" id="mens - Face Covers" role="menuitem" class="dropdown-link" tabindex="-1">Face Covers</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item dropdown" role="menuitem">
+                            <a style="color: black" href="/en/women" id="women" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Women</a>
+                            
+                            <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="women">
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/women-new_trending" id="womens - New &amp; Trending" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Featured</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="womens - New &amp; Trending">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-new_arrivals" id="womens-New_Arrivals" role="menuitem" class="dropdown-link" tabindex="-1">New Arrivals</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/ultraboost" id="womens-Ultraboost" role="menuitem" class="dropdown-link" tabindex="-1">Ultraboost Light</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/sportswear" id="women-featured-adidas-sportswear" role="menuitem" class="dropdown-link" tabindex="-1">adidas Sportswear</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/gazelle" id="women-featured-gazelle" role="menuitem" class="dropdown-link" tabindex="-1">Gazelle</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/forum" id="women-featured-forum" role="menuitem" class="dropdown-link" tabindex="-1">Forum</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/parley" id="women-featured-parley" role="menuitem" class="dropdown-link" tabindex="-1">adidas x Parley</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-featured-outlet" id="women-featured-Outlet" role="menuitem" class="dropdown-link" tabindex="-1">SALE</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/women-shoes" id="women-Shoes" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Women's Shoes</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="women-Shoes">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-originals-shoes" id="women-Originals" role="menuitem" class="dropdown-link" tabindex="-1">Originals</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-running-shoes" id="women-running" role="menuitem" class="dropdown-link" tabindex="-1">Running</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-slides" id="women- slides &amp; slippers" role="menuitem" class="dropdown-link" tabindex="-1">Slides &amp; Sandals</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-gym_training-shoes" id="women-gym &amp; training" role="menuitem" class="dropdown-link" tabindex="-1">Gym &amp; Training</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-football-shoes" id="womens - Football" role="menuitem" class="dropdown-link" tabindex="-1">Football Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-outdoor-shoes" id="Womens-outdoor" role="menuitem" class="dropdown-link" tabindex="-1">Hiking, Trail &amp; Climbing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-sneakers" id="Women-sneakers" role="menuitem" class="dropdown-link" tabindex="-1">Sneakers</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-white-sneakers" id="White-women-sneakers" role="menuitem" class="dropdown-link" tabindex="-1">White Sneakers</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/women-shoes?pmin=00.00&amp;pmax=3%2C000.00" id="women-shoes-under-egp3000" role="menuitem" class="dropdown-link" tabindex="-1">Shoes Under EGP 3000</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/women-clothing" id="women-Clothing" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Women's Clothing</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="women-Clothing">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/sports_bras" id="women-bras" role="menuitem" class="dropdown-link" tabindex="-1">Sports Bras</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-t_shirts" id="women-tshirts" role="menuitem" class="dropdown-link" tabindex="-1">T-shirts</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-shorts" id="women-shorts" role="menuitem" class="dropdown-link" tabindex="-1">Shorts</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-trousers" id="women-pants" role="menuitem" class="dropdown-link" tabindex="-1">Pants</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-tights" id="Women-tights" role="menuitem" class="dropdown-link" tabindex="-1">Leggings &amp; Tights</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/skirts_dresses" id="women-skirts" role="menuitem" class="dropdown-link" tabindex="-1">Dresses &amp; Skirts</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-tracksuits" id="women-tracksuits" role="menuitem" class="dropdown-link" tabindex="-1">Tracksuits</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-hoodies" id="women-hoodies" role="menuitem" class="dropdown-link" tabindex="-1">Hoodies</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-sweatshirts" id="women-sweatshirts" role="menuitem" class="dropdown-link" tabindex="-1">Sweatshirts</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-jackets" id="women-jackets" role="menuitem" class="dropdown-link" tabindex="-1">Jackets</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-swimwear" id="women-swimwear" role="menuitem" class="dropdown-link" tabindex="-1">Swimwear</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/gender-neutral" id="womens - Gender Neutral" role="menuitem" class="dropdown-link" tabindex="-1">Gender Neutral Sportswear</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/women-clothing?pmin=00.00&amp;pmax=2%2C000.00" id="women-clothing-under-egp2000" role="menuitem" class="dropdown-link" tabindex="-1">Clothing Under EGP 2000</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/women-accessories" id="women-Accessories" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Women's Accessories</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="women-Accessories">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-headwear" id="women-headwear" role="menuitem" class="dropdown-link" tabindex="-1">Headwear</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-bags" id="women-bags &amp; backpacks" role="menuitem" class="dropdown-link" tabindex="-1">Bags</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-socks" id="women-socks" role="menuitem" class="dropdown-link" tabindex="-1">Socks</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-gloves" id="women-other" role="menuitem" class="dropdown-link" tabindex="-1">Gloves</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-face_covers" id="womens - face covers" role="menuitem" class="dropdown-link" tabindex="-1">Face Covers</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item dropdown" role="menuitem">
+                            <a style="color: black" href="/en/kids" id="kids" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kids</a>
+                            
+                            <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="kids">
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/kids-trending" id="kids-New &amp; Trending" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Featured</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="kids-New &amp; Trending">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids-new_arrivals" id="kids-New Arrivals" role="menuitem" class="dropdown-link" tabindex="-1">New Arrivals</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids-lego" id="kids-lego" role="menuitem" class="dropdown-link" tabindex="-1">Lego Collection</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids-disney" id="Kids-Disney" role="menuitem" class="dropdown-link" tabindex="-1">Disney Collection</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids-slides" id="Kids-Slides" role="menuitem" class="dropdown-link" tabindex="-1">Kids Slides</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids-featured-sale" id="kids-featured-sale" role="menuitem" class="dropdown-link" tabindex="-1">SALE</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/infant_toddler" id="kids-Infants" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Kids and Toddlers Sportswear</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="kids-Infants">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/infant_toddler-shoes" id="kids-infant-shoes" role="menuitem" class="dropdown-link" tabindex="-1">Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/infant_toddler-clothing" id="kids-infant-Clothing" role="menuitem" class="dropdown-link" tabindex="-1">Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/infant_toddler-accessories" id="kids-infant-Accessories" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/kids_4_8_years" id="kids-Junior" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Kids 4 to 8 Years Sportswear</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="kids-Junior">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids_4_8_years-shoes" id="kids-Junior-Shoes" role="menuitem" class="dropdown-link" tabindex="-1">Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids_4_8_years-boys-shoes" id="kids-Junior-Boy Clothing" role="menuitem" class="dropdown-link" tabindex="-1">Boys Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids_4_8_years-girls-clothing" id="kids-Junior-Girls Clothing" role="menuitem" class="dropdown-link" tabindex="-1">Girls Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids_4_8_years-accessories" id="kids-Junior-Accessories" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/kids_8_16_years" id="kids-Kids" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Kids 8 to 16 Years Sportswear</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="kids-Kids">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids_8_16_years-shoes" id="kids-kids-Shoes" role="menuitem" class="dropdown-link" tabindex="-1">Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids_8_16_years_boys_clothing" id="kids_8_16_years_boys_clothing" role="menuitem" class="dropdown-link" tabindex="-1">Boys Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids_8_16_years_girls_clothing" id="kids_8_16_years_girls_clothing" role="menuitem" class="dropdown-link" tabindex="-1">Girls Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids_8_16_years-accessories" id="kids-kids-Accessories" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item dropdown" role="menuitem">
+                            <a style="color: black" href="/en/sports" id="sports" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sports</a>
+                            
+                            <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="sports">
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/football" id="Football" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Football</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Football">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/football-clothing" id="Football-Clothing" role="menuitem" class="dropdown-link" tabindex="-1">Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/football-jerseys" id="Football-jerseys" role="menuitem" class="dropdown-link" tabindex="-1">Football Kits</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/football-accessories" id="Football-Accessories" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/football-shoes" id="Football-Shoes" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Shoes</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Football-Shoes">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/copa-1" id="Football-Copa" role="menuitem" class="dropdown-link" tabindex="-1">adidas Copa</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/predator" id="Predator" role="menuitem" class="dropdown-link" tabindex="-1">adidas Predator</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/x" id="X" role="menuitem" class="dropdown-link" tabindex="-1">adidas X</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/juventus-jerseys" id="Juventus-football-jerseys" role="menuitem" class="dropdown-link" tabindex="-1">Juventus</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/manchester_united-jerseys" id="Manchester-united-football-jerseys" role="menuitem" class="dropdown-link" tabindex="-1">Manchester United</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/fc-bayern-munchen" id="fc bayern munchen" role="menuitem" class="dropdown-link" tabindex="-1">FC Bayern Munchen</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/al-ahly" id="sport-football-Al-Ahly" role="menuitem" class="dropdown-link" tabindex="-1">Al Ahly</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/sports_outdoor" id="sports_outdoor" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Outdoor</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="sports_outdoor">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/adidasnatgeo" id="sports_outdoor_adidasnatgeo" role="menuitem" class="dropdown-link" tabindex="-1">NATIONAL GEOGRAPHIC</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/unitedbysummits.html" id="sports_outdoor_unitedbysummits" role="menuitem" class="dropdown-link" tabindex="-1">United By Summits</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/terrex" id="sports_outdoor_terrex" role="menuitem" class="dropdown-link" tabindex="-1">Terrex</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/sports_outdoor_shoes" id="sports_outdoor_shoes" role="menuitem" class="dropdown-link" tabindex="-1">Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/sports_outdoor_clothing" id="sports_outdoor_clothing" role="menuitem" class="dropdown-link" tabindex="-1">Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/sports_outdoor_accessories" id="sports_outdoor_accessories" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/running" id="Running" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Running</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Running">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/running-shoes" id="Running-Shoes" role="menuitem" class="dropdown-link" tabindex="-1">Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/running-clothing" id="Running-Clothing" role="menuitem" class="dropdown-link" tabindex="-1">Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/running-accessories" id="Running-Accessories" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/4dfwd-running" id="4dfwd-running" role="menuitem" class="dropdown-link" tabindex="-1">4DFWD</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/adizero" id="Running - Adizero" role="menuitem" class="dropdown-link" tabindex="-1">adidas adizero</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/ultraboost" id="Running- Ultraboost" role="menuitem" class="dropdown-link" tabindex="-1">Ultraboost Light</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/supernova" id="supernova" role="menuitem" class="dropdown-link" tabindex="-1">Supernova</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/gym_training" id="Gym &amp; Training" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Gym &amp; Training</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Gym &amp; Training">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/gym_training-shoes" id="Training-Shoes" role="menuitem" class="dropdown-link" tabindex="-1">Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/gym_training-clothing" id="Training-Clothing" role="menuitem" class="dropdown-link" tabindex="-1">Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/gym_training-accessories" id="Training-Accessories" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/other-sports" id="Other-Sports" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Other Sports</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Other-Sports">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/basketball" id="Basketball" role="menuitem" class="dropdown-link" tabindex="-1">adidas Basketball</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/cycling" id="Cycling" role="menuitem" class="dropdown-link" tabindex="-1">Cycling</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/swimming" id="Swimming" role="menuitem" class="dropdown-link" tabindex="-1">Swimming</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/tennis" id="Tennis" role="menuitem" class="dropdown-link" tabindex="-1">adidas Tennis</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/yoga" id="Yoga" role="menuitem" class="dropdown-link" tabindex="-1">Yoga</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item dropdown" role="menuitem">
+                            <a style="color: black" href="/en/collections-1" id="COLLECTIONS" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">3 STRIPE LIFE</a>
+                            
+                            <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="COLLECTIONS">
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/brands" id="brands" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Brands</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="brands">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/sportswear" id="Sportswear" role="menuitem" class="dropdown-link" tabindex="-1">ADIDAS SPORTSWEAR</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/originals" id="Originals" role="menuitem" class="dropdown-link" tabindex="-1">adidas Originals</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/terrex" id="TERREX" role="menuitem" class="dropdown-link" tabindex="-1">adidas Terrex</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/collaborations" id="Collaborations" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Collaborations</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Collaborations">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/karlie-kloss" id="Karlie Kloss" role="menuitem" class="dropdown-link" tabindex="-1">Karlie Kloss</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/pharrell" id="Pharrell" role="menuitem" class="dropdown-link" tabindex="-1">Pharrell</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/rich-mnisi" id="Rich Mnisi" role="menuitem" class="dropdown-link" tabindex="-1">Rich Mnisi</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/spezial" id="Spezial" role="menuitem" class="dropdown-link" tabindex="-1">Spezial</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/adidas_by_stella_mccartney-2" id="adidas by Stella McCartney-1" role="menuitem" class="dropdown-link" tabindex="-1">adidas by Stella McCartney</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/disney" id="disney" role="menuitem" class="dropdown-link" tabindex="-1">Disney</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/jeremy-scott" id="jeremy scott" role="menuitem" class="dropdown-link" tabindex="-1">Jeremy Scott</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/lego" id="lego" role="menuitem" class="dropdown-link" tabindex="-1">Lego</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/marimekko-1" id="marimekko-1" role="menuitem" class="dropdown-link" tabindex="-1">Marimekko</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/parley" id="parley" role="menuitem" class="dropdown-link" tabindex="-1">Parley</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/collections-2" id="Collections" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Collections</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Collections">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/nmd" id="Nmd" role="menuitem" class="dropdown-link" tabindex="-1">adidas NMD</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/stan_smith" id="Stan-smith" role="menuitem" class="dropdown-link" tabindex="-1">adidas Stan Smith</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/superstar" id="Superstar" role="menuitem" class="dropdown-link" tabindex="-1">adidas Superstar Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/blue_version" id="blue_version" role="menuitem" class="dropdown-link" tabindex="-1">Blue Version</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/forum" id="forum" role="menuitem" class="dropdown-link" tabindex="-1">forum</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/gazelle" id="gazelle" role="menuitem" class="dropdown-link" tabindex="-1">Gazelle</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="/en/trending" id="Trending" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Trending Sportswear</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Trending">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/black-shoes" id="Black-shoes" role="menuitem" class="dropdown-link" tabindex="-1">Black Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/black-hoodies" id="Black Hoodies" role="menuitem" class="dropdown-link" tabindex="-1">Black Hoodies</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids-sneakers" id="Kids Sneakers" role="menuitem" class="dropdown-link" tabindex="-1">Kids Sneakers</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/black-sneakers" id="Black-trainers" role="menuitem" class="dropdown-link" tabindex="-1">Black Sneakers</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/slides" id="Slides" role="menuitem" class="dropdown-link" tabindex="-1">adidas Slides</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/tights" id="Tights" role="menuitem" class="dropdown-link" tabindex="-1">Leggings</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/white-sneakers" id="White-trainers" role="menuitem" class="dropdown-link" tabindex="-1">White Sneakers</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item dropdown" role="menuitem">
+                            <a style="color: #e82c2c" href="/en/outlet" id="sale" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SALE</a>
+                            
+                            <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="sale">
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="https://www.adidas.com.eg/en/men-outlet" id="mensale" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Men</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="mensale">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/men-shoes-sale" id="Men's Shoes Sale" role="menuitem" class="dropdown-link" tabindex="-1">Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/men-clothing-sale" id="Men's Clothing Sale" role="menuitem" class="dropdown-link" tabindex="-1">Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/men-accessories-sale" id="Sale Accessories" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/men-sale-last-sizes-left" id="men-sale-last-sizes-left" role="menuitem" class="dropdown-link" tabindex="-1">Last Chance</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="https://www.adidas.com.eg/en/women-outlet" id="Women's Sale" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Women</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Women's Sale">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/women-accessories-sale" id="Women's Accessories Sale" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/women-clothing-sale" id="Women's Clothing Sale" role="menuitem" class="dropdown-link" tabindex="-1">Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/women-shoes-sale" id="Women's Shoes Sale" role="menuitem" class="dropdown-link" tabindex="-1">Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/women-sale-last-sizes-left" id="women-sale-last-sizes-left" role="menuitem" class="dropdown-link" tabindex="-1">Last Chance</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="dropdown-item dropdown" role="presentation">
+                <a href="https://www.adidas.com.eg/en/kids-outlet" id="Kids Sale" class="dropdown-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="0">Kids</a>
+                
+                <ul class="dropdown-menu" role="menu" aria-hidden="true" aria-label="Kids Sale">
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/kids-shoes-sale" id="Kids Shoes Sale" role="menuitem" class="dropdown-link" tabindex="-1">Shoes</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/kids-clothing-sale" id="Kids Clothing Sale" role="menuitem" class="dropdown-link" tabindex="-1">Clothing</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="https://www.adidas.com.eg/en/kids-accessories-sale" id="Kids Accessories Sale" role="menuitem" class="dropdown-link" tabindex="-1">Accessories</a>
+            </li>
+        
+    
+        
+            <li class="dropdown-item" role="presentation">
+                <a href="/en/kids-sale-last-sizes-left" id="kids-sale-last-sizes-left" role="menuitem" class="dropdown-link" tabindex="-1">Last Chance</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+            
+            
+
+
+    
+        <li class="nav-item d-xl-none otherMenuItem" role="menuitem">
+            <a class="nav-link" href="https://www.adidas.com.eg/on/demandware.store/Sites-adidas-EG-Site/en_EG/Login-OAuthLogin?oauthProvider=AIC&amp;oauthLoginTargetEndPoint=1">
+                <span class="user-message">Login</span>
+            </a>
+        </li>
+    
+
+
+<li class="nav-item d-xl-none otherMenuItem" role="menuitem">
+    <a href="https://www.adidas.com.eg/en/wishlist" class="nav-link">
+        <span class="user-message">Wishlist</span>
+    </a>
+</li>
+
+
+    <li class="nav-item d-xl-none otherMenuItem" role="menuitem">
+        <a class="nav-link" href="https://www.adidas.com.eg/en/order-tracker">
+            <span class="user-message">order tracker</span>
+        </a>
+    </li>
+
+
+<li class="nav-item d-xl-none otherMenuItem" role="menuitem">
+    <a class="nav-link" href="/en/returns.html">
+        <span class="user-message">Returns</span>
+    </a>
+</li>
+
+
+    <li class="nav-item d-xl-none otherMenuItem borderline" role="menuitem">
+        <a href="https://www.adidas.com.eg/en/adiclub" class="nav-link">
+            <span class="user-message">adiClub</span>
+        </a>
+    </li>
+
+
+<li class="nav-item d-xl-none otherMenuItem" role="menuitem">
+    <a href="https://www.adidas.com.eg/en/storefinder" class="nav-link">
+        <span class="user-message">Store Finder</span>
+    </a>
+</li>
+
+<li class="nav-item d-xl-none otherMenuItem" role="menuitem">
+    <a href="/en/help-page.html" class="nav-link">
+        <span class="user-message">Help</span>
+    </a>
+</li>
+
+<li class="nav-item d-xl-none otherMenuItem" role="menuitem">
+     
+    
+    <div class="content-asset"><!-- dwMarker="content" dwContentID="78ae288521d7a3785e88345176" -->
+        <div  id="qualtrics">
+   
+</div>
+    </div> <!-- End content-asset -->
+
+
+
+</li>
+
+
+    <li class="nav-item d-xl-none otherMenuItem" role="menuitem">
+        <span class="user_link language-switch">
+            
+    <li class="menu-item dropdown language-switch mobile d-xl-none" data-url="/on/demandware.store/Sites-adidas-EG-Site/en_EG/Page-SetLocale">
+        <div class="menu-language-tabs">
+            <div class="language-switch-tab">
+                <div class="title-mobile">
+                    Country
+                </div>
+                <i class="flag-icon flag-icon-eg"></i>
+                <span class="name">Egypt</span>
+            </div>
+            <div class="language-switch-tab selectable" data-toggle="modal" data-target="#languageSwitchModal">
+                <div class="title-mobile switchto-arrow">
+                    Switch to
+                </div>
+                
+                
+                    <button class="languageswitch">
+                        العربية</button>
